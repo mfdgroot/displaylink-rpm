@@ -123,6 +123,9 @@ fi
 /usr/bin/systemctl daemon-reload
 
 %changelog
+* Sat Oct 27 2018 fgiff <mfmdegroote@gmail.com> 1.5.0-3
+- Bump downloaded version to 4.4.24
+
 * Wed Jan 17 2018 fgiff <ffgiff@gmail.com> 1.5.0-2
 - Bump downloaded version to 4.1.9
 
