@@ -3,8 +3,8 @@ sudo: required
 env:
   global:
     - VERSION=1.5.0.2
-    - DAEMON_VERSION=4.2.29
-    - RELEASE=2
+    - DAEMON_VERSION=4.4.24
+    - RELEASE=3
   matrix:
   - OS_TYPE=fedora OS_VERSION=28
   - OS_TYPE=fedora OS_VERSION=27
